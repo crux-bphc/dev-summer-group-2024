@@ -1,0 +1,6 @@
+# Introduction
+Welcome to the prerequisites for Machine Learning! In this week, we will cover the fundamental skills you need to excel in the field of ML. We will start by diving into Python, a versatile and powerful programming language widely used in ML. You will learn the basics of Python syntax, data types, control flow, and functions. **If you already know python, you can skip basic python and move on to the next section.**
+
+Next, we will explore two essential libraries for data manipulation and analysis: NumPy and Pandas. NumPy provides efficient numerical operations and multi-dimensional array support, while Pandas offers high-performance data structures and data analysis tools. You will gain hands-on experience with these libraries, learning how to manipulate arrays, perform mathematical operations, and work with structured data.
+
+By the end of this week, you will have a solid foundation in Python, NumPy, and Pandas, setting you up for the world of Machine Learning. So let's get started! 
