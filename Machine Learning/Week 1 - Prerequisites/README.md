@@ -5,6 +5,8 @@ Next, we will explore two essential libraries for data manipulation and analysis
 
 By the end of this week, you will have a solid foundation in Python, NumPy, and Pandas, setting you up for the world of Machine Learning. So let's get started! 
 
+**Note:** _Basic python doesn't have any notebook associated with it. We have provided links from which you can learn it at your own pace._
+
 ## Requirements
 
 - Jupyter Notebooks: Jupyter Notebooks are a popular tool for interactive computing and data analysis. They provide an environment where you can write and execute code, visualize data, and document your work using markdown. The ``.ipynb`` files in the ``Numpy`` and ``Pandas`` folder are jupyter notebooks. 
@@ -21,11 +23,16 @@ By the end of this week, you will have a solid foundation in Python, NumPy, and 
 
 To start using Google Colab, simply go to [colab.research.google.com](https://colab.research.google.com) and sign in with your Google account. You can create new notebooks or upload existing ones from your local machine or Google Drive.
 
-**For this workshop we strongly recommend to use Google Colab, as it has all the major libraries pre-installed. It also avoids the hassle of installation errors in the case of a local setup, thus saving us time so that we can immediately start learning.**
 
-#### For those of you who still want to use a local setup:
+#### For those of you who want to use a local setup:
 
-To use Jupyter Notebooks, you need to have it installed on your local machine. You can install it using the following command:
+If you don't have python already installed on your system, you can use the Anaconda distribution to install python and jupyter together.
+
+Here is a guide for windows: [Anaconda for python and jupyter Windows](https://www.youtube.com/watch?v=WUeBzT43JyY)
+
+Here is a guide for MacOS: [Anaconda for python and jupyter MacOS](https://www.youtube.com/watch?v=PM60D-Pg890)
+
+If you are experienced with python, you can install it using the following pip command:
 
 ```
 pip install jupyter
@@ -58,7 +65,7 @@ The notebooks teach you how to use numpy and pandas in an interactive way with t
 
 ### What do you have to do?
 
-It's very simple. You can go through the entire notebook once by yourself. After that make your own notebook in [Google Colab](https://colab.research.google.com) and practice just the code part once by yourself. 
+It's very simple. You can go through the entire notebook once by yourself. After that make your own notebook in [Google Colab](https://colab.research.google.com) or your local notebook and practice just the code part once by yourself. 
 
 Here is a short video on how to use Colab : [Colab Basic Use](https://www.youtube.com/watch?v=8KeJZBZGtYo)
 

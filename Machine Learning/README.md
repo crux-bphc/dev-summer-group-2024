@@ -13,7 +13,7 @@ Moving on, regarding the content. ML is a vast field and it primarily comprises 
 The content will contain links/attachments and sometimes ``jupyter notebooks`` too. More about jupyter notebooks later. You will be expected to learn everything in 5-6 days so that you have some time to give to the competition at the end of the week. If the content is heavy, then it can go upto 2 weeks.
 
 ## Topics to be covered
-1. NumPy and Pandas
+1. Basic Python -> NumPy -> Pandas
 2. Basic Classification and Regression, feature engineering, preprocessing, cost functions
 3. Advance Classification and Regression - Naive Bayes, Decision Trees, random forests
 4. Clustering algorithms - KMeans, other miscellaneous - cross validation etc.
