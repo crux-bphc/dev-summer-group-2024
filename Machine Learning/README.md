@@ -6,7 +6,7 @@ Welcome to the CRUx Machine Learning workshop! I hope you all will have a fun ti
 
 ## Overview & Prerequisites
 
-First, let's talk about the structure of the workshop. We will be releasing content every week or every 2 weeks depending on the difficulty and vastness of the topic in hand. At the end of the week, we will have a small contest/competition on [kaggle](https://www.kaggle.com/). This is to give you an opportunity to apply the knowledge that you learn in the workshop.
+First, let's talk about the structure of the workshop. We will be releasing content every week or every 2 weeks depending on the difficulty and vastness of the topic in hand. At the end of the week, we will have a small contest/competition on [kaggle](https://www.kaggle.com/). This is to give you an opportunity to apply the knowledge that you learn in the workshop. Note that week 1 won't have any competition.
 
 Moving on, regarding the content. ML is a vast field and it primarily comprises of a lot of math. This workshop will not focus much on the math behind various learning algorithms but rather try to give you **hands on experience** on building ML models with the help of libraries like _sklearn_, _tensorflow_, _pytorch_, etc. But for those of you who are curious to know the math behind algorithms, we will be providing links to learn them at your own pace.
 
