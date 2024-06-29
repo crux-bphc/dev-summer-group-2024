@@ -71,6 +71,12 @@ Data (pre)processing is a crucial step in the machine learning pipeline. It invo
 
 Some steps have been covered in Week 1's content, and more will be covered through case examples in the following. However, if you would like to learn more, here are some links to help you get started: 
 
+<https://towardsdatascience.com/introduction-to-data-preprocessing-in-machine-learning-a9fa83a5dc9d>
+
+<https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/>
+
+<https://neptune.ai/blog/data-preprocessing-guide>
+
 ## What *is* Machine Learning?
 Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on developing algorithms that allow computers to learn from and make decisions based on data. Instead of being explicitly programmed to perform a task, a machine learning model is trained on data to identify patterns and make predictions or decisions.
 
