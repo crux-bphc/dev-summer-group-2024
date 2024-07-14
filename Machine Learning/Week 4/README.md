@@ -35,3 +35,5 @@ Cross-validation is a technique used to evaluate the performance of a machine le
 In this module, we will delve into the principles, advantages, and limitations of these advanced machine learning techniques. We will also discuss how to implement and evaluate these techniques using real-world datasets.
 
 Let's get started with these advanced techniques and enhance our machine learning expertise!
+
+Note: The duration to finish this week's content is 2 weeks as it covers a lot of new topics. This is also the final batch of materials we will be providing this summer group. Everything taught so far is just the basics of ML. It is a vast field and takes a lot of time to master. We hope you all enjoyed the workshop and learnt new things. One last thing, we will be having a final competition that includes everything you've learnt! Thank you for being part of the summer group.
